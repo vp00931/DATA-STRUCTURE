@@ -1,3 +1,4 @@
+![insert_at_begin](https://user-images.githubusercontent.com/92702328/149530233-d4ad9379-1618-4bbb-a194-55688dd0a7c9.png)
 <b><font size="5">Write a C program to insert a element at <u>beginning of array</u></b></font>
 ```
 
